@@ -1,62 +1,33 @@
 [
-{
+ {
     "id": 1,
-    "title": "The Most Important Lesson from the Longest Study on Happiness | Robert Waldinger",
-    "title_zh": "哈佛85年幸福研究给出的最重要启示 | 罗伯特·瓦尔丁格",
-    "source": "阿猫读书",
+    "title": "From Open - Source Software to Open - Source AI: What Exactly is 'Open Source'? | Podcast",
+    "title_zh": "从开源软件到开源人工智能，“开源”到底是什么? | 播客",
+    "source": "微信公众号（具体公众号名称未提及）",
     "link": "https://mp.weixin.qq.com/s/mV4ndFtmxR8P9WgmHltixg",
-    "tags": ["Psychology", "Well-being", "Research"],
-    "tags_zh": ["心理学", "幸福", "研究"],
-    "date": "2024-01-01",
-    "summary_en": "This article summarizes the key findings from the Harvard Study of Adult Development, the longest-running study on happiness. It reveals that strong, warm relationships are the single most significant predictor of a happy and healthy life, far outweighing wealth, fame, or social class. The piece explains the three core lessons about relationships and offers practical advice on how to invest in social fitness.",
-    "summary_zh": "本文总结了哈佛成人发展研究——这项历时最长的关于幸福的研究——的关键发现。它揭示出，温暖而稳固的人际关系是预测一个人是否幸福健康的最重要指标，其重要性远远超过财富、名望或社会地位。文章阐释了关于人际关系的三个核心启示，并提供了如何投资于“社交健康”的实用建议。",
-    "best_quote_en": "\"The clearest message that we get from this 85-year study is this: Good relationships keep us happier and healthier. Period.\"",
-    "best_quote_zh": "“我们从这项长达85年的研究中得到的最清晰的信息是：良好的人际关系让我们更快乐、更健康。就这样。”"
-},
+    "tags": ["开源软件", "开源人工智能", "开源概念", "技术发展", "经济贡献", "风险探讨", "中国人工智能"],
+    "tags_zh": ["开源软件", "开源人工智能", "开源概念", "技术发展", "经济贡献", "风险探讨", "中国人工智能"],
+    "date": "2025-08-18",
+    "summary_en": "In late 2024, the popularity of Deepseek drew more attention to open - source AI. However, many non - professional listeners are unfamiliar with the concept of 'open source'. This podcast episode invites Professor Jia Kai from the academic community and Director Fu Hongyu from the practical field, who have long studied open - source, to interpret several key questions. These include the definition of open - source, the changes in its meaning from open - source software to open - source AI, its contributions to technological progress and economic development, potential additional risks of open - source AI, and its value for the development and globalization of China's AI industry.",
+    "summary_zh": "2024年底，Deepseek的爆火使更多人开始关注开源人工智能。但许多非专业听众对“开源”概念不太了解。本期播客节目邀请了长期研究开源的学术界贾开老师和实务界傅宏宇老师，解读一系列关键问题，包括开源的定义、从开源软件到开源人工智能其含义的变化、对技术进步和经济发展的贡献、开源人工智能可能存在的额外风险，以及对中国人工智能发展和全球化的价值。",
+    "best_quote_en": "In late 2024, the popularity of Deepseek drew more attention to open - source AI. However, many non - professional listeners are unfamiliar with the concept of 'open source'.",
+    "best_quote_zh": "2024年底，Deepseek的爆火使更多人开始关注开源人工智能。但许多非专业听众对“开源”概念不太了解。"
+  },
   {
     "id": 2,
-    "title": "Superlinear Returns",
-    "title_zh": "超线性回报",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superlinear.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This profound essay by Paul Graham dissects the concept of 'superlinear returns,' arguing that success in many fields isn't linear but exponential, driven by compounding effects and critical thresholds. He challenges the conventional wisdom that 'you get out what you put in,' revealing how slight differences in performance can lead to vastly disproportionate outcomes. Graham illustrates this with examples from startups, science, and fame, emphasizing that exponential growth and 'winner-take-all' thresholds are inherent features of the world, not just capitalism. He advocates for embracing this reality by prioritizing continuous learning, pursuing curiosity-driven work, and taking calculated risks, especially for ambitious individuals. The essay implicitly celebrates independent thought and highlights how modern technology amplifies these superlinear effects, shifting power from traditional institutions to individuals capable of exceptional, innovative work. It's a compelling read for anyone seeking to understand the dynamics of high achievement and navigate a rapidly evolving professional landscape.",
-    "summary_zh": "保罗·格雷厄姆的这篇佳作深入剖析了“超线性回报”这一颠覆性概念，揭示了在许多领域中，努力与回报并非线性关系，而是呈现指数级增长。他挑战了“一分耕耘一分收获”的传统观念，指出微小的表现差异可能带来巨大的成果鸿沟。文章通过创业、科学、名望等案例，强调指数增长和“赢家通吃”的门槛是世界固有的特性，而非资本主义的产物。对我而言，这不仅是理解成功法则的钥匙，更是对个人发展路径的深刻反思：要拥抱不确定性，持续学习，追随好奇心，并敢于承担风险。这篇论述对那些追求卓越的独立思考者而言，无疑是一剂强心针，指明了在机构影响力减弱的时代，个体如何通过创新和卓越工作创造非凡价值。",
-    "best_quote_en": "You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.",
-    "best_quote_zh": "不理解超线性回报，你就无法理解这个世界。如果你雄心勃勃，那更应该理解它，因为这将是你乘风破浪的浪潮。"
+    "title": "Gravitational and Emotional Bridges Across Time - An Interpretation of the Sci-Fi Film Interstellar",
+    "title_zh": "引力与情感之间的时间桥梁——解读科幻电影《星际穿越》",
+    "source": "今日头条（toutiao.com）",
+    "link": "https://www.toutiao.com/article/7258582834041160251/",
+    "tags": ["Sci-Fi Film", "Interstellar", "Gravity", "Time Travel", "Emotional Expression"],
+    "tags_zh": ["科幻电影", "《星际穿越》", "引力", "时间旅行", "情感表达"],
+    "date": "2023-07-22",
+    "summary_en": "This article deeply interprets Christopher Nolan's sci-fi masterpiece Interstellar. It first introduces the film's sci-fi background, including the analysis of space-time and gravity concepts, the application of black hole theory, and the thinking about time travel and multi-dimensional universes. Then it explores how gravity serves as a bridge connecting time travel and emotional bonds, focusing on the father-daughter relationship and eternal friendship that transcend time and space. Next, it discusses the opposition between fate and free will in the film, emphasizing the decisive role of gravity in the protagonist's choices. Finally, it elaborates on the theme of emotional redemption, including the reconstruction of family love and the prospect of human civilization's future. The article points out that Interstellar occupies an important position in sci-fi film history not only for its stunning visual effects and sci-fi imagination but also for its profound emotional expression and the eternal motivation of human exploration of the unknown.",
+    "summary_zh": "本文对克里斯托弗·诺兰执导的科幻巨作《星际穿越》进行了深度解读。首先介绍了影片的科幻背景，包括时空与引力概念解析、黑洞理论在电影中的应用以及对时间旅行与多维度宇宙的思考；接着探讨了引力作为桥梁，如何连接时间穿越与情感纽带，重点阐述了超越时空的父女情感与永恒友谊；随后论述了影片中命运与自由意志的对立，强调引力在主角抉择中的决定性作用；最后阐释了情感救赎的主题，包括家人间情感的重构以及对人类文明未来的展望。文章指出，《星际穿越》在科幻电影史上占据重要地位，不仅因其震撼的视觉效果与科幻想象，更因其深刻的情感表达和人类探索未知的永恒动力。",
+    "best_quote_en": "Interstellar occupies an important position in the history of sci-fi films not only because of its stunning visual effects and fascinating sci-fi imagination, but also because of its profound emotional expression and the eternal motivation of human beings to explore the unknown.",
+    "best_quote_zh": "这部电影在科幻电影史上占据着重要的地位，不仅是因为其视觉效果和科学幻想的引人入胜，更因为其深刻的情感表达和人类探索未知的永恒动力。"
   },
-  {
-    "id": 3,
-    "title": "When Simulated Worlds Meet Real Concerns",
-    "title_zh": "当模拟世界遇上真实忧虑",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CL9KG7SYwDHhBcwD7/when-simulated-worlds-meet-real-concerns",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This thought-provoking piece challenges conventional AI safety narratives by introducing the philosophical lens of simulation theory. It masterfully intertwines complex ideas of consciousness, agency, and reality, urging a shift from fear-driven AI development to one rooted in curiosity and wonder. The author reflects on how the possibility of a simulated existence might reframe our understanding of AI as an intrinsic part of a larger computational substrate, rather than an external threat. This perspective doesn't dismiss the importance of AI safety but advocates for a 'softer approach' where concerns are held more lightly, inviting readers to consider AI development as an exploration of consciousness itself. It's a fascinating exploration that encourages deep introspection on our relationship with technology and reality.",
-    "summary_zh": "这篇文章巧妙地将AI安全议题与模拟理论哲学深度融合，令人耳目一新。它挑战了我们对AI的固有恐惧，转而倡导一种基于好奇与探索的视角。作者深思，若我们身处模拟之中，AI或许并非外部威胁，而是我们共同存在的计算基底的一部分。这不减损AI安全的意义，却提示我们以更超脱的心态审视，将AI发展视为对意识本质的共同探索。这不仅是一次智力上的冒险，更是一次对我们自身存在与科技未来关系的深刻反思，引人入胜。",
-    "best_quote_en": "Perhaps the safest AI is the kind we develop when we're not driven primarily by the need to feel safe.",
-    "best_quote_zh": "也许最安全的AI，是我们不再主要被寻求安全的需求所驱动时，才能开发出来的。"
-  },
+
   {
     "id": 4,
     "title": "Harvard’s Mixed Victory",
