@@ -27,7 +27,20 @@
     "best_quote_en": "Interstellar occupies an important position in the history of sci-fi films not only because of its stunning visual effects and fascinating sci-fi imagination, but also because of its profound emotional expression and the eternal motivation of human beings to explore the unknown.",
     "best_quote_zh": "这部电影在科幻电影史上占据着重要的地位，不仅是因为其视觉效果和科学幻想的引人入胜，更因为其深刻的情感表达和人类探索未知的永恒动力。"
   },
-
+  {
+    "id": 3,
+    "title": "Understanding The Three-Body Problem: What Does It Tell? What 'Black Technologies' Are There?",
+    "title_zh": "一文读懂《三体》：到底讲了啥? 有哪些“黑科技”?",
+    "source": "澎湃新闻（thepaper.cn）、科普中国",
+    "link": "https://www.thepaper.cn/newsDetail_forward_21814203",
+    "tags": ["《三体》", "科幻小说", "三体问题", "纳米飞刃", "智子", "可控核聚变", "量子纠缠", "科学知识"],
+    "tags_zh": ["《三体》", "科幻小说", "三体问题", "纳米飞刃", "智子", "可控核聚变", "量子纠缠", "科学知识"],
+    "date": "2023-02-05",
+    "summary_en": "With the popularity of The Three-Body Problem series, this article, written by Wang Jiangshan (a doctor of the history of science and technology), elaborates on the story of The Three-Body Problem and interprets the scientific knowledge behind its 'black technologies'. The story begins during the Cultural Revolution: Ye Wenjie, a young astrophysicist, responds to a signal from the technologically advanced Trisolaran civilization after suffering hardships, exposing Earth's coordinates. The Trisolarans, eager to escape their harsh living environment, decide to migrate to Earth and conspire to disrupt Earth's science to block its technological progress. Humans then take various countermeasures. The article also focuses on explaining key 'black technologies': the 'Three-Body Problem' (an unsolvable astronomical mechanical model that triggers the story), 'nano blades' (similar to real carbon nanotubes but still facing challenges for practical application), 'protons' (their real-time communication relies on quantum entanglement, which cannot yet be used for communication in reality), and 'controlled nuclear fusion' (a core technology for non-reactive mass spacecraft, with China making progress in the 'artificial sun' project). Additionally, it mentions other related knowledge such as 'water droplets' and 'thought stamps', and points out that the charm of sci-fi lies in its ability to take people to uncharted territories with imagination.",
+    "summary_zh": "随着《三体》剧集热播，本文由科技史博士王江山撰写，详解《三体》的故事脉络，并解读其“黑科技”背后的科学知识。故事始于文革时期：年轻天体物理学家叶文洁历经苦难后，回应了来自科技发达的三体文明的信号，暴露了地球坐标。渴望摆脱恶劣生存环境的三体人决定移民地球，并阴谋扰乱地球科学以封锁其技术进步，人类随后采取多种应对措施。文章还重点解析关键“黑科技”：“三体问题”（引发故事的无解天文学力学模型）、“纳米飞刃”（与现实中的碳纳米管类似，但实际应用仍存挑战）、“智子”（其实时通讯依赖量子纠缠，现实中该现象暂无法用于通讯）、“可控核聚变”（无工质飞船的核心技术，中国“人造太阳”项目已取得进展）。此外，文章提及“水滴”“思想钢印”等相关知识，并指出科幻的魅力在于以想象力带人们抵达前人未至之境。",
+    "best_quote_en": "Human beings currently have limited knowledge, but the unique imagination of humans is boundless. This is perhaps the greatest charm of science fiction stories: in just a moment, it can take us to places no one has been before.",
+    "best_quote_zh": "人类目前掌握的知识有限，但人特有的想象力却至于无穷。这也许正是科幻故事最大的魅力：只需片刻，它即可将我们带往前人未至之境。"
+  },
   {
     "id": 4,
     "title": "Harvard’s Mixed Victory",
