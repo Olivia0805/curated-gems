@@ -1,28 +1,18 @@
 [
-  {
+{
     "id": 1,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "1111社交媒体在我怀孕前就猜到了，我的信息流很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article masterfully exposes the insidious nature of social media algorithms, particularly their predatory targeting of vulnerable groups like pregnant women. It highlights how platforms, driven by engagement metrics, exploit fear and anxiety, transforming what should be a joyful period into a barrage of distressing content. The piece compellingly argues that this isn't a 'glitch' but a deliberate design choice for monetization, raising critical questions about ethical AI, data privacy, and societal responsibility. It underscores the urgent need for robust safeguarding measures and greater transparency from tech companies, offering a chilling glimpse into how personal data can be weaponized against user well-being. The implications extend beyond individual distress to broader concerns about mental health and the digital manipulation of human emotions.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法的阴暗面，特别是它们如何精准且无情地利用孕妇的脆弱心理。它让我不禁思考，当技术发展超越伦理边界时，我们如何保护自身免受其害。算法将恐惧变现，这不仅仅是技术失误，更是设计使然。这种对用户心理健康的漠视，呼唤着更严格的法规和更负责任的企业行为。这不仅仅是个人困扰，更是对数字时代人类尊严的拷问。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人不安的内容不是故障；它是互动，而互动就是收入。”"
-  },
+    "title": "The Most Important Lesson from the Longest Study on Happiness | Robert Waldinger",
+    "title_zh": "哈佛85年幸福研究给出的最重要启示 | 罗伯特·瓦尔丁格",
+    "source": "阿猫读书",
+    "link": "https://mp.weixin.qq.com/s/mV4ndFtmxR8P9WgmHltixg",
+    "tags": ["Psychology", "Well-being", "Research"],
+    "tags_zh": ["心理学", "幸福", "研究"],
+    "date": "2024-01-01",
+    "summary_en": "This article summarizes the key findings from the Harvard Study of Adult Development, the longest-running study on happiness. It reveals that strong, warm relationships are the single most significant predictor of a happy and healthy life, far outweighing wealth, fame, or social class. The piece explains the three core lessons about relationships and offers practical advice on how to invest in social fitness.",
+    "summary_zh": "本文总结了哈佛成人发展研究——这项历时最长的关于幸福的研究——的关键发现。它揭示出，温暖而稳固的人际关系是预测一个人是否幸福健康的最重要指标，其重要性远远超过财富、名望或社会地位。文章阐释了关于人际关系的三个核心启示，并提供了如何投资于“社交健康”的实用建议。",
+    "best_quote_en": "\"The clearest message that we get from this 85-year study is this: Good relationships keep us happier and healthier. Period.\"",
+    "best_quote_zh": "“我们从这项长达85年的研究中得到的最清晰的信息是：良好的人际关系让我们更快乐、更健康。就这样。”"
+},
   {
     "id": 2,
     "title": "Superlinear Returns",
