@@ -55,30 +55,22 @@
     "best_quote_en": "For decades, surveys have suggested that middle age is the low point of life. While young and old generally reported high levels of life satisfaction, those in mid-life endured a slump. Recently, however, the curve seems to have become warped. A study finds that young people across the world are now reporting the highest levels of misery of any age group.",
     "best_quote_zh": "数十年来，调查显示中年是人生的低谷期。年轻人和老年人普遍对生活满意度较高，而中年人却经历了一段消沉期。然而，最近这条曲线似乎发生了扭曲。一项研究发现，如今全球的年轻人是所有年龄组中痛苦程度最高的群体。"
   },
-  {
-    "id": 41,
-    "title": "Putting Ideas into Words",
-    "title_zh": "将想法付诸文字",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/words.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This essay profoundly explores the symbiotic relationship between writing and thinking, arguing that the act of articulating ideas in written form is not merely a transcription process but a crucible for refining, completing, and even discovering thoughts. The author posits that true understanding and fully formed ideas emerge only through the rigorous process of committing them to words, often revealing their imprecision or incompleteness. This piece challenges the common misconception that ideas exist perfectly formed in the mind before expression, suggesting instead that writing serves as an indispensable tool for intellectual development and clarity. It underscores the unique rigor of writing compared to other forms of communication, presenting it as a demanding yet essential path to deeper knowledge and self-awareness.",
-    "summary_zh": "这篇文章深刻阐述了写作与思维的共生关系。我深受启发，原来将想法付诸文字并非简单记录，而是一个淬炼和完善思想的过程，甚至能帮助我们发现未曾察觉的洞见。作者挑战了那种认为想法在表达前已然完美的普遍观念，强调了写作作为一种严谨的智力工具，其在促进思考深度、清晰度和自我认知方面的不可或缺性。这让我反思，许多“模糊”的念头，或许正是因为缺乏文字的检验与固化。写作，不仅仅是表达，更是思想的体操，是通往更深层次理解的必经之路。",
-    "best_quote_en": "If writing down your ideas always makes them more precise and more complete, then no one who hasn't written about a topic has fully formed ideas about it. And someone who never writes has no fully formed ideas about anything nontrivial.",
-    "best_quote_zh": "如果把你的想法写下来总是能让它们更精确、更完整，那么任何没有写过某个话题的人，对此都没有完全成型的想法。而一个从不写作的人，对任何非琐碎的事情都没有完全成型的想法。"
-  },
+{
+  "id": 5,
+  "title": "Freud: Why Do People Have Different Personalities?",
+  "title_zh": "弗洛伊德丨为什么人会有不同的性格？",
+  "source": "三联生活周刊（Lifeweek）",
+  "link": "https://www.lifeweek.com.cn/article/100298",
+  "tags": ["Freud", "Personality Structure Theory", "Psychoanalysis", "Psychology", "Mental Health"],
+  "tags_zh": ["弗洛伊德", "人格结构理论", "精神分析", "心理学", "心理健康"],
+  "date": "未明确标注",
+  "summary_en": "This article, featuring insights from Associate Professor Zhong Jie of Peking University's School of Psychology and Cognitive Science, delves into Freud, the founder of psychoanalysis, and his exploration of human personality. It introduces the mainstream definition of personality in psychology—referring to a person's relatively stable patterns of behavior, emotions, interpersonal interactions, and self-perception that remain consistent across time and situations. The core content focuses on Freud's personality structure theory established in 1923, which proposes that the human psyche consists of three internal components: the Id, the Ego, and the Superego. Additionally, it mentions Freud's view that the unconscious has a more significant impact on human life and behavior than consciousness, and discusses the value of his century-old theories in contemporary times, as well as their role in understanding psychology and psychotherapy.",
+  "summary_zh": "本文邀请北京大学心理与认知科学学院副教授钟杰，深入解读精神分析学科开创者弗洛伊德及其对人类性格（心理学中称“人格”）的探索。文中介绍了心理学领域对人格的主流定义——即一个人存在相对稳定的行为、情感、人际模式和对自我的看法，这些心理特征具有跨时间和情境的稳定性。核心内容围绕弗洛伊德1923年建立的人格结构理论展开，该理论提出人的内心由“本我”（Id）、“自我”（Ego）、“超我”（Superego）三个内在部分构成。同时，文章提及弗洛伊德认为无意识对人类生活和行为的影响比意识更重要，并探讨了其百年前的理论在当下的价值，以及对了解心理学和心理治疗的意义。",
+  "best_quote_en": "As the founder of psychoanalysis, Freud devoted his life to exploring the internal mechanisms of the human mind and treating mental illnesses. He believed that the human mind is not only determined by consciousness; the unconscious is an even more important factor influencing our lives and behaviors.",
+  "best_quote_zh": "作为精神分析学科的开创者，弗洛伊德一生执着于探索人类心灵的内部机制、治疗心理疾患。他认为人的内心不仅仅由意识决定，无意识才是影响我们生活和行为更重要的因素。",
+  "real_world_significance_en": "This article helps the public understand the basic principles of Freud's personality structure theory, enabling individuals to gain insights into the internal composition and formation of their own personalities. It provides a foundational perspective for understanding human behavior, emotions, and interpersonal interactions in daily life. Additionally, it highlights the enduring value of classic psychological theories, guiding people to rationally view the connection between early psychological development (such as family education and parent-child relationships mentioned implicitly) and personality, and offering a reference for promoting mental health and optimizing interpersonal relationships.",
+  "real_world_significance_zh": "本文有助于大众了解弗洛伊德人格结构理论的核心原理，让人们能够洞察自身人格的内在构成与形成逻辑，为理解日常生活中的个人行为、情感反应及人际互动模式提供基础视角。同时，文章凸显了经典心理学理论的持久价值，引导人们理性看待早期心理发展（如文中隐含提及的家庭教育、父母关系）与人格的关联，为促进个人心理健康、优化人际关系提供了参考依据。"
+},
   {
     "id": 42,
     "title": "Medical decision making",
