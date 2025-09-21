@@ -88,7 +88,7 @@
   "real_world_significance_zh": "本文有助于大众把握20世纪的核心特征与历史脉络，理解全球化、世界大战、现代技术对人类文明的深远影响，建立对当代社会现象（如技术风险、全球文化融合）起源与发展的理性认知。同时，通过介绍“20世纪十大思想家”，引导人们挖掘20世纪的思想资源，为思考当下社会问题、探索未来发展方向提供理论参照。对个人而言，可深化对历史进程与个人生活关联的理解，提升分析和应对复杂社会变化的能力。"
 },
   {
-    "id": 44,
+    "id": 7,
     "title": "Wisereads Vol. 98 – The Magic of Code by Samuel Arbesman, Daniel Pink on finding purpose, and more",
     "title_zh": "Wisereads 第98期 – Samuel Arbesman 的《代码的魔力》、Daniel Pink 谈寻找人生目标等",
     "source": "Weekly Wisereads",
@@ -111,26 +111,22 @@
     "best_quote_en": "\"In trying to remember everything, I outsourced the act of reflection. I didn’t revisit ideas. I didn’t interrogate them. I filed them away and trusted the structure. But a structure is not thinking. A tag is not an insight. And an idea not re-encountered might as well have never been had.\"",
     "best_quote_zh": "“在试图记住一切的过程中，我把反思的行为外包了。我没有重新审视想法。我没有质疑它们。我只是把它们归档，并信任这个结构。但结构不是思考。标签不是洞察。一个没有被重新遇到的想法，可能根本就从未存在过。”"
   },
-  {
-    "id": 45,
-    "title": "African Trips",
-    "title_zh": "非洲之旅",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/african-trips/",
-    "tags": [
-      "guide",
-      "design"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意"
-    ],
-    "date": "2025-08-25",
-    "summary_en": "This article reviews two essential resources for overland travel in Africa: 'Sahara Overland' and 'African Adventure Atlas'. 'Sahara Overland' is lauded as the definitive guide for navigating the challenging Sahara desert, offering comprehensive practical advice on vehicles, supplies, itineraries, and dangers. It emphasizes the importance of self-reliance and preparedness over blind trust in local guides. The 'African Adventure Atlas' is presented as an unparalleled cartographic resource for the entire continent, providing crucial details like border crossings, park entrances, and mileage markers, which are typically absent from other maps in developing regions. Together, these resources empower adventurous travelers with the knowledge to undertake challenging expeditions, highlighting the unique blend of danger and discovery inherent in African overland journeys. The article implicitly suggests a mindset of robust preparation and adaptability for such endeavors.",
-    "summary_zh": "这篇文章深度评测了两本非洲陆路旅行的“圣经”：《撒哈拉陆路行》和《非洲探险地图集》。前者是穿越撒哈拉的终极指南，强调详尽的实用知识和独立思考；后者则是非洲大陆无与伦比的地图集，提供其他地图难以企及的细节。读罢深感，真正的探险并非盲目冲动，而是源于周密的准备和对未知世界的敬畏。这些工具不仅是旅行的辅助，更是精神的指引，提醒我们在追求刺激的同时，不忘尊重自然、依靠智慧。这让我反思，无论何种“探险”，知识和工具都是抵达目的地的基石，而内心的勇气和应变能力，才是最宝贵的财富。",
-    "best_quote_en": "The Sahara is a desert as large as the United States filled with emptiness, ancient cultures, and natural wonders. America has its own recreational deserts in the west, but for Africa and Europe, the Sahara is where you go to test yourself.",
-    "best_quote_zh": "撒哈拉沙漠大如美国，充满虚无、古老文化和自然奇观。美国西部有自己的休闲沙漠，但对非洲和欧洲而言，撒哈拉是你去考验自己的地方。"
-  },
+{
+  "id": 8,
+  "title": "The Younger Onset of Sudden Deafness: A Health Crisis Under Pressure",
+  "title_zh": "年轻化的突聋：压力下的健康危机",
+  "source": "三联生活周刊（Lifeweek）",
+  "link": "https://www.lifeweek.com.cn/article/253437?from=",
+  "tags": ["Sudden Deafness", "Youth Health", "Stress - related Diseases", "Hearing Loss"],
+  "tags_zh": ["突发性耳聋", "年轻人健康", "压力相关疾病", "听力损失"],
+  "date": "2025-09-15",
+  "summary_en": "This article focuses on the emerging trend of sudden deafness among young people. It points out that, unlike vision problems, hearing loss has often been overlooked, and people usually associate deafness with old age. However, in recent years, otolaryngologists have noticed that sudden deafness is becoming more prevalent among the young. This disease is closely related to stress, anxiety, and fatigue, and it has the risk of being incurable. The article uses the case of Fan Chao, who experienced a second attack of sudden deafness, to illustrate the onset and development of the disease. He felt ear blockage, and his condition worsened during the emergency treatment, with tinnitus and a decline in hearing. This phenomenon serves as a wake - up call for the public to pay attention to the health risks of young people under pressure and the importance of early detection and treatment of sudden deafness.",
+  "summary_zh": "本文聚焦于突发性耳聋年轻化这一现象。一直以来，听力损失相较于视力问题，不易被察觉且常被大众忽视，人们往往认为耳聋是老年人才会面临的问题。然而近年来，耳鼻喉科医生发现突发性耳聋在年轻人中的发病情况日益增多。该疾病与压力、焦虑、疲惫密切相关，还存在无法治愈的风险。文章以范超二次突发耳聋的经历为例，详细描述了疾病的发作和发展过程。范超先是感到耳朵闷堵，在急诊治疗时病情加重，出现耳鸣且听力下降。这一案例警示大众，要关注年轻人在压力下的健康风险，以及突发性耳聋早发现、早治疗的重要性。",
+  "best_quote_en": "But in recent years, many otolaryngologists have found that sudden deafness is showing a younger - onset trend. This is a disease strongly associated with people's stress, anxiety, and fatigue, and it has the risk of being incurable. Many young people living and working in a fast - paced and high - pressure environment are vulnerable to its attack, seeking medical treatment everywhere, and even having their life directions changed as a result.",
+  "best_quote_zh": "但在最近几年，许多耳鼻喉科医生都发现突发性耳聋呈年轻化趋势。这是一个与人的压力、焦虑、疲惫强相关的疾病，具有无法治愈的风险。很多快节奏、高强度工作和生活的年轻人容易受到它的侵袭，辗转求医，人生方向甚至因此改变。",
+  "real_world_significance_en": "This article raises public awareness of the health issue of sudden deafness among young people. It reminds young people to pay attention to their physical and mental health, manage stress properly, and maintain a healthy lifestyle to prevent the occurrence of such diseases. For the general public, it promotes understanding of sudden deafness, enabling them to recognize the symptoms in a timely manner and seek medical treatment promptly, which is crucial for improving the prognosis of patients and reducing the potential negative impact on their lives.",
+  "real_world_significance_zh": "本文提高了大众对年轻人突发性耳聋这一健康问题的认知。它提醒年轻人关注自身身心健康，合理应对压力，保持健康的生活方式，预防此类疾病的发生。对于普通大众而言，增进了对突发性耳聋的了解，有助于及时识别症状并尽快就医，这对改善患者预后、减少疾病对生活的潜在负面影响至关重要。"
+},
   {
     "id": 46,
     "title": "Is There Such a Thing as Good Taste?",
